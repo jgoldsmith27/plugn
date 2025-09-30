@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+apps/web/dist
+apps/web/test-results
+packages/**/dist
+playwright-report
+blob-report
+.vscode
